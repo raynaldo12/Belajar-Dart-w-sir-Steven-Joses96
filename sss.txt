@@ -1,0 +1,49 @@
+void main () {
+  var jalan = true;
+List waitinglist=[];
+Map PosA ={'plat': null};
+Map PosB ={'plat': null};
+Map PosC ={'plat': null};
+ 		
+tambahlist(){
+  // jika ketiga pos lagi kosong maka masuk dulu 
+  // jika semua pos penuh makan tambah ke waitinglis
+
+}
+
+showlist(){
+  // perulangan pada list for, for in, foreach
+}
+
+showpos(){
+  // tampikan A, tampilakan B, tampil pos C
+}
+
+finishpos(){
+tanay user, hapus pos berapa?
+jika pos A dihapus,
+maka pos A jadikan Null, pos A disis dengan List peertama, list pertama di hapus 
+jika pos B dihapus,
+maka pos B jadikan Null, pos A disis dengan List peertama, list pertama di hapus 
+jika pos C dihapus,
+maka pos C jadikan Null, pos A disis dengan List peertama, list pertama di hapus 
+}
+
+keluar() {
+  exit(0);
+}
+
+  while(jalan == true) {
+tampilkanmenu dulu
+tanya user pilih menu mana
+switch case 
+case 1-> tampilkan menu
+case 2 ->lihat waiting list
+case 3 -> liat pos
+case 4 -> selesaikan pos
+case 5 -> keluar dari aplikasi
+
+
+
+  }
+}

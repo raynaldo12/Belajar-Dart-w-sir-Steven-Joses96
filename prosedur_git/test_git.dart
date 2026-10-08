@@ -5,8 +5,8 @@
 
 // JIKA AUTOR TIDAK DIKENAL
 
-//git config --global user.email "a@gmail.com"
-//git config --global user.name "a-code"
+//git config --global user.email "ray.naldo.ang06@gmail.com"
+//git config --global user.name "raynaldo12"
 //git remote add origin (linkrepo) 
 //git branch -m main 
 //git push -u origin main
